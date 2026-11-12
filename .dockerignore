@@ -1,0 +1,20 @@
+# Not needed to serve the app
+.git
+.gitignore
+dataset/
+notebook/
+documents/
+sow/
+main.py
+README.md
+LICENSE
+ 
+# Python / editor clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.idea/
+.vscode/
